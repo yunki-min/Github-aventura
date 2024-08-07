@@ -29,3 +29,4 @@ O projeto consiste em três arquivos principais:
 - Deixar o projeto mais acessível para dispositivos móveis.
 
 **Divirta-se em busca da cidade perdida! 🛝** 
+k
